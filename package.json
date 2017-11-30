@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "name": "check-local-ip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Archakov Dennis <hello@archakov.im>",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Archakov06/check-local-ip.git",
+    "type": "git"
+  }
+}
